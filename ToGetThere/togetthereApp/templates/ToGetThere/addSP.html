@@ -1,0 +1,9 @@
+<form method='post'>
+    {% csrf_token %}
+<table>
+    {{ sp_form }}
+    {{address_form}}
+</table>
+
+<input type='submit' value='Submit' />
+</form>

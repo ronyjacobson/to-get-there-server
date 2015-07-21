@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'togetthere',
         'USER': 'root',
         'PASSWORD': 'Rony3029',
-        'HOST': 'localhost',
+        'HOST': 'togettheredb.cvuuvyl1thkv.us-west-2.rds.amazonaws.com',
         'PORT': '3306',
     }
 }

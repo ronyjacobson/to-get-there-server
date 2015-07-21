@@ -79,8 +79,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'togetthere',
-        'USER': 'root',
-        'PASSWORD': 'Rony3029',
+        'USER': 'togetthereadmin',
+        'PASSWORD': 'togetthereadmin',
         'HOST': 'togettheredb.cvuuvyl1thkv.us-west-2.rds.amazonaws.com',
         'PORT': '3306',
     }
